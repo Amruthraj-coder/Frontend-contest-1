@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.nav1{
+background-color: black;
+width: 100%;
+height: 87px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: rgba(255, 255, 255, 1);
+
+position: absolute;
+width: 100%;
+height: 87px;
+left: 0px;
+top: 0px;
+
+;
+}
+ .head1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+position: absolute;
+width: 600px;
+height: 144px;
+left: 38px;
+top: 140px;
+}
+.para1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+position: absolute;
+width: 1624px;
+height: 546px;
+left: 38px;
+top: 245px;
+}
+.anchor1{
+position: absolute;
+width: 226px;
+height: 58px;
+left: 38px;
+top: 518px;
+background-color: black;
+}
+.anchor1 button{
+    
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+background-color: black;
+color: white;
+position: absolute;
+    top: 10px;
+    left: 32px;
+
+}
+.head2{
+    position: absolute;
+width: 600px;
+height: 144px;
+left: 38px;
+top: 669px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+}
+.img{
+    position: absolute;
+width: 729px;
+height: 911px;
+left: 38px;
+top: 831px;
+}
+.head3{
+    position: absolute;
+width: 600px;
+height: 144px;
+left: 38px;
+top: 1782px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+}
+.ol{
+
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    left: 38px;
+    top: 1899px;
+    
+   
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 48px;
+    
+}
+.head4{
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 2162px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+
+.ul{
+
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    left: 38px;
+    top: 2274px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 50px;
+}
